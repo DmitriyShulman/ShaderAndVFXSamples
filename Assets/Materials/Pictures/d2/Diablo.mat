@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-2240730263114294857
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 6
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Diablo
+  m_Shader: {fileID: -6465566751694194690, guid: f90d779e960cec140995b2b403f85ae8, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_084c5e149e934f5b8f27d4b352576258_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 1dee3b7af52cea74b8c08d7294988ac9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_298cadf167404fc58d1232a35abf7c64_Texture_1:
+        m_Texture: {fileID: 2800000, guid: a7d93d6187b34714b8d01f761bc2d17a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_46aee4092d4e4ab8b6838af766633dab_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 9d8de2bba41f671419cf5f81afed76f3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_4b111acd476b4b8f8fbae1631cbb3c89_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 0794557fa26ae764094943f5f8bbb1ea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_6f84e50f09124df08522d55c273d258c_Texture_1:
+        m_Texture: {fileID: 2800000, guid: cd1f6c9c61604f740a83d5075bc15416, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_8ff3df8fb13048a797155888c9bb7364_Texture_1:
+        m_Texture: {fileID: 2800000, guid: a0cf88c32cc3eba458b4c127e5bd858d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_a9cc44225bc74881bf16c8c1861e2dea_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 6dc4aecc6d730d14b90c9ffe750a8823, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_b93fefdc32dc489d97966e694c517cea_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 822d56385ff17b548a7a7799a377141b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_bd8bdbe0bab94c45b8012c7537dcc902_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 0d5a75a073f35ab40a59580a80957f9c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_bf5cfa049f15463cbe4a50ce9372bf07_Texture_1:
+        m_Texture: {fileID: 2800000, guid: cd1f6c9c61604f740a83d5075bc15416, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_dec6dbf0170e4ce996c9feb9b0e2fe87_Texture_1:
+        m_Texture: {fileID: 2800000, guid: d58331c51ad512f46927cc73ecd09716, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_e4fb9eb98d01474eb288e52fb46cc3fe_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 06a21638a4ff4784bac1b12b708c1d91, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _EmissionPower: 1
+    - _EmissionStrength: 8
+    - _Float: 31.36
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Transition: 0.652
+    - _TransitionSpeed: 0.5
+    m_Colors:
+    - _EmissionStrength: {r: 4.237095, g: 4.237095, b: 4.237095, a: 0}
+    - _Eyes: {r: 5.992157, g: 0.15686275, b: 0, a: 0}
+    - _Fire_1: {r: 31.999996, g: 9.888885, b: 0, a: 0}
+    - _Fire_2: {r: 31.999996, g: 1.549842, b: 0, a: 0}
+  m_BuildTextureStacks: []
